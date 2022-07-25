@@ -1,0 +1,3 @@
+what is merge conflict ?
+
+committing the same from the different branches causes merge conflict ?
