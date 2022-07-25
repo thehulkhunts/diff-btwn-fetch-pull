@@ -1,0 +1,5 @@
+fetch doesnt show any file in local repo commited by user in github(remote repository)
+it only shows meta data about that commit
+git log origin/main by using this command
+
+
