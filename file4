@@ -1,0 +1,4 @@
+what is git pull ?
+git pull = git fetch + git merge
+
+when you pull a repo from remote to local it will automaticaly perform fetch and merge 
