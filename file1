@@ -1,0 +1,7 @@
+here we are showing difference between fetch and pull
+
+---------------------------------------------------
+
+PULL :-> pull command pull the repo from the remote repository 
+FETCH:->  fetch command fetch the metadata of recent commit 
+           
