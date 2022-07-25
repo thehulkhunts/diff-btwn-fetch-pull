@@ -1,0 +1,6 @@
+what is git fetch ?
+
+git fetch is nothing but , when a developer commits a new file in remote repo
+that file wont shows in local repo untill and unless you fetch , how fetch performs means ones you
+fetch a file from remote that will store as temporary file it will not shown in local repo
+untill you merge the file
